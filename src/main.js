@@ -1,5 +1,6 @@
+import './assets/variables.css'
 import './assets/main.css'
-import './assets/About.css'
+import './assets/Banner.css'
 
 import { createApp } from 'vue'
 import App from './App.vue'

@@ -1,16 +1,24 @@
 @import 'bootstrap/dist/css/bootstrap.css';
 
 html, body {
-    background-color: rgb(54, 52, 50);
+    background-color: var(--secondary);
+
+    width: 100vw;
+    height: 100vh;
 }
 
 #app {
-  max-width: 1280px;
-  margin: 0 auto;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
 
-  font-weight: normal;
+    font-weight: normal;
 }
 
 main {
     height: 20rem;
+}
+
+.container-lg {
+    padding: 0;
 }
