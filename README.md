@@ -38,7 +38,8 @@ After some "careful consideration" I landed on the following decisions.
 - Slate gray    : #708090
 
 ### Wireframes
-[I don't have any wireframes yet :/]
+I made the following wireframe so I can actually follow a layout instead of being dumb and sculpting everything without any idea.
+![wireframe](https://github.com/Doonguin/portfolioV2/assets/98739915/5c43aea5-c2df-48b6-828f-8c27c586ffbb)
 
 ## Images
 [Eventually I will have some concept images]
